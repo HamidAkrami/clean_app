@@ -1,0 +1,36 @@
+class ImageConstant {
+  static String img0 = "";
+  static String img1 = "";
+  static String img2 = "";
+  static String img3 = "";
+  static String img4 = "";
+  static String img5 = "";
+  static String img6 = "";
+  static String img7 = "";
+  static String img8 = "";
+  static String img9 = "";
+  static String img10 = "";
+  static String img11 = "";
+  static String img12 = "";
+  static String img13 = "";
+  static String img14 = "";
+  static String img15 = "";
+  static String img16 = "";
+  static String img17 = "";
+  static String img18 = "";
+  static String img19 = "";
+  static String img20 = "";
+  static String img21 = "";
+  static String img22 = "";
+  static String img23 = "";
+  static String img24 = "";
+  static String img25 = "";
+  static String img26 = "";
+  static String img27 = "";
+  static String img28 = "";
+  static String img29 = "";
+  static String img30 = "";
+  static String img31 = "";
+  static String img32 = "";
+  static String img33 = "";
+}
